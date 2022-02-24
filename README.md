@@ -22,11 +22,13 @@ In this project, the use of various elementary HTML tags are covered, some of th
 - list tag
 
 <br />
-#### note:
-Further an imporatant concept that I felt needed to be noted down was the definitions of HTML tags, HTML elements, and HTML attributes:
-- HTML tags       : The building blocks of the HTML language starts with < and ends with >. They are the keywords that instruct the web page on how to display the content
-- HTML elements   : The content represented inside or inbetween a HTML tag
-- HTML attributes : They are keywords mentioned within the tags that attributes(contributes/define) the elements behavious. 
+
+
+>**note**:
+>An imporatant concept used to facilitate the functions of the tags represented above are HTML tags, HTML elements, and HTML attributes:
+>- HTML tags       : The building blocks of the HTML language starts with < and ends with >. They are the keywords that instruct the web page on how to display the content
+>- HTML elements   : The content represented inside or inbetween a HTML tag
+>- HTML attributes : They are keywords mentioned within the tags that attributes(contributes/define) the elements behavious. 
 
 <br />
 <br />
