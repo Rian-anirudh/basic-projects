@@ -1,0 +1,3 @@
+honey-lime-chicken:    https://www.allrecipes.com/recipe/286122/honey-lime-chicken/
+chicken-tetrazzini:    https://www.allrecipes.com/recipe/232100/cheesy-and-creamy-chicken-tetrazzini/
+chocolate-chip-cookie: https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/
