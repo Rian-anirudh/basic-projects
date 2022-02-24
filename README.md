@@ -1,4 +1,4 @@
-# Odin Recipes
+# ODIN-RECIPES
  <br />
  <br />
 
@@ -24,7 +24,7 @@ In this project, the use of various elementary HTML tags are covered, some of th
 <br />
 
 
->**note**:
+>**Note**:
 >An imporatant concept used to facilitate the functions of the tags represented above are HTML tags, HTML elements, and HTML attributes:
 >- HTML tags       : The building blocks of the HTML language starts with < and ends with >. They are the keywords that instruct the web page on how to display the content
 >- HTML elements   : The content represented inside or inbetween a HTML tag
@@ -41,10 +41,18 @@ To create a basic website that lets the user browse through a few recipes, and d
 <br />
 
 ## Web Page preview
+### Priview 1
+![Preview1](https://github.com/Rian-anirudh/odin-recipes/blob/main/resources/Preview1.png)
 
+<br />
+<br />
 
+### Preview 2
+![Preview2](https://github.com/Rian-anirudh/odin-recipes/blob/main/resources/preview2.png)
 
-
-### references:
-
-
+***References:***
+>honey-lime-chicken:    https://www.allrecipes.com/recipe/286122/honey-lime-chicken/
+><br />
+>chicken-tetrazzini:    https://www.allrecipes.com/recipe/232100/cheesy-and-creamy-chicken-tetrazzini/
+><br />
+>chocolate-chip-cookie: https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/
