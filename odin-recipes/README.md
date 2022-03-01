@@ -42,13 +42,13 @@ To create a basic website that lets the user browse through a few recipes, and d
 
 ## Web Page preview
 ### Priview 1
-![Preview1](https://github.com/Rian-anirudh/odin-recipes/blob/main/resources/Preview1.png)
+![Preview1](./resources/Preview1.png)
 
 <br />
 <br />
 
 ### Preview 2
-![Preview2](https://github.com/Rian-anirudh/odin-recipes/blob/main/resources/preview2.png)
+![Preview2](./resources/preview2.png)
 
 ***References:***
 >honey-lime-chicken:    https://www.allrecipes.com/recipe/286122/honey-lime-chicken/
